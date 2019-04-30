@@ -1,7 +1,8 @@
 # Final-Project-Group2
 Spring 2019 Machine Learning II Final Project CNN Painting Classification
 # If you do not want to download the dataset from Kaggle API
-The resized folder all the images in the original dataset. It is included in the git repo. 
+Please down the data from https://www.kaggle.com/ikarus777/best-artworks-of-all-time
+- sudo unzip best-artworks-of-all-time.zip
 - sudo unzip resized.zip
 - sudo chmod -R 777 /<resized folder path>
 Then you can start running the code in the suggested sequence below (skip next section). 
