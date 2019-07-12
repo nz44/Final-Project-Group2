@@ -1,4 +1,4 @@
-# Final-Project-Group2
+# Final-Project-2
 This is an individual course project at George Washington University 2019 Spring DATS 6203 Machine Learning II
 
 # If you do not want to download the dataset from Kaggle API
